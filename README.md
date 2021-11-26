@@ -10,11 +10,21 @@ Conception d’un système de détection d’objets en temps réel.
 
 ## training
 ![Preview](https://github.com/PaezEdward/Detection-d-objets-Raspberry-Pi-4/blob/main/img/chart.png)
+![Preview](https://github.com/PaezEdward/Detection-d-objets-Raspberry-Pi-4/blob/main/img/training2.jpg)
+
 
 ## Test
 ![Preview](https://github.com/PaezEdward/Detection-d-objets-Raspberry-Pi-4/blob/main/img/predictions.jpg)
-
-
+![Preview](https://github.com/PaezEdward/Detection-d-objets-Raspberry-Pi-4/blob/main/img/predictions_test1.jpg)
+![Preview](https://github.com/PaezEdward/Detection-d-objets-Raspberry-Pi-4/blob/main/img/predictions_test2.jpg)
+![Preview](https://github.com/PaezEdward/Detection-d-objets-Raspberry-Pi-4/blob/main/img/predictions_test3.jpg)
+![Preview](https://github.com/PaezEdward/Detection-d-objets-Raspberry-Pi-4/blob/main/img/predictions_test5.jpg)
+![Preview](https://github.com/PaezEdward/Detection-d-objets-Raspberry-Pi-4/blob/main/img/predictions_test6.jpg)
+![Preview](https://github.com/PaezEdward/Detection-d-objets-Raspberry-Pi-4/blob/main/img/predictions_test7.jpg)
+![Preview](https://github.com/PaezEdward/Detection-d-objets-Raspberry-Pi-4/blob/main/img/predictions_test8.jpg)
+![Preview](https://github.com/PaezEdward/Detection-d-objets-Raspberry-Pi-4/blob/main/img/predictions_test9.jpg)
+![Preview](https://github.com/PaezEdward/Detection-d-objets-Raspberry-Pi-4/blob/main/img/predictions_test10.jpg)
+![Preview](https://github.com/PaezEdward/Detection-d-objets-Raspberry-Pi-4/blob/main/img/predictions_test11.jpg)
 
 Cordialement,
 - Edward PAEZ
