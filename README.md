@@ -9,8 +9,10 @@ Conception d’un système de détection d’objets en temps réel.
 4. L’étiquetage de données et training via Colab
 
 ## training
-![Preview](https://github.com/PaezEdward/Detection-d-objets-Raspberry-Pi-4/blob/main/img/chart.png)
 ![Preview](https://github.com/PaezEdward/Detection-d-objets-Raspberry-Pi-4/blob/main/img/training2.jpg)
+
+![Preview](https://github.com/PaezEdward/Detection-d-objets-Raspberry-Pi-4/blob/main/img/chart.png)
+
 
 
 ## Test
